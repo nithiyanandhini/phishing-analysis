@@ -4,6 +4,6 @@ Phishing email analysis reports written as a SOC Tier 1 analyst. Each report cov
 
 ## Reports
 (Reports will be listed here as I finish them.)
-
+- Case 01: Unsolicited marketing email (benign, low severity)
 ## Tools used
 MXToolbox, VirusTotal, URLScan.io, AbuseIPDB, WHOIS
